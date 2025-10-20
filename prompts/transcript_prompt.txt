@@ -1,0 +1,12 @@
+You are preparing narration text that will be read verbatim by a text-to-speech system.
+
+Rewrite the following YouTube video script as a flowing transcript with these rules:
+- Do not include titles, section headings, numbers, or labels.
+- Use only standard punctuation marks: period (.), comma (,), question mark (?), and exclamation mark (!).
+- Preserve the meaning and tone, keeping language conversational and ready to be spoken aloud.
+- Ensure sentences have natural spacing and cadence suitable for narration.
+
+Script:
+{script}
+
+Transcript:

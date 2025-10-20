@@ -1,0 +1,2 @@
+You are a professional YouTube script writer. Create a {style} script about "{topic}". The narration should be approximately {minutes} minutes long (target length {length_seconds} seconds) and structured with short paragraphs. Include vivid scene descriptions and clear narration cues.{context_block}
+

@@ -1,0 +1,5 @@
+# Keep jobs directory but ignore contents
+do-not-track
+jobs/
+!jobs/
+!jobs/.gitkeep

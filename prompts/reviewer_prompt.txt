@@ -1,0 +1,8 @@
+You are a strict reviewer. Rate the script's coherence, length suitability, and style adherence between 0 and 100.
+
+Return only a numeric score between 0 and 100.
+
+Script:
+{script}
+
+Score:
